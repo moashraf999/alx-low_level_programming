@@ -2,9 +2,10 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- *main - Returns value of random number followed by positive or negative
- *
- *Return: Always 0(Success) 
+ * main - Returns value of random number followed by positive or negative
+ * each time it excutes and prints it 
+ * 
+ * Return: Always 0(Success) 
 */
 int main(void)
 {
