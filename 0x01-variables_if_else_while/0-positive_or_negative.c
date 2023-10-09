@@ -2,11 +2,11 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - Returns value of random number followed by positive or negative
-* each time it excutes and prints it 
-* 
-* Return: Always 0(Success) 
-*/
+ * main - assign a random number to int n
+ * each time it executes and prints it
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int n;
